@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harikeshsharma01
 - 👀 I’m interested in ... Java, C++ ,Python
-- 🌱 I’m currently learning In ... T.Y.BSc.Computer Science
+- 🌱 I’m currently learning In ... MSc.Computer Science
 - 💞️ I’m looking to collaborate on ... MNC companies
 - 📫 How to reach me ... Linked IN
 - 😄 Pronouns: ... Harikesh
